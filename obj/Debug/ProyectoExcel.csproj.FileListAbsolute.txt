@@ -1,0 +1,7 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\bin\Debug\ProyectoExcel.exe.config
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\bin\Debug\ProyectoExcel.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\bin\Debug\ProyectoExcel.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\obj\Debug\ProyectoExcel.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\obj\Debug\ProyectoExcel.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\obj\Debug\ProyectoExcel.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\obj\Debug\ProyectoExcel.pdb
