@@ -87,8 +87,7 @@ namespace ProyectoExcel
             con.Close();
             con.Dispose();
 
-            //using (MuDatabaseEnties dc = new MuDatabaseEnties)
-            //{
+
             foreach (DataRow dr in ds.Tables[0].Rows)
             {
                 string Emp = dr["Empleado Id"].ToString();
