@@ -1,0 +1,5 @@
+# Ignorar lor archivos de configuración
+*.config
+
+# Ignorar el contenido de las carpetas bin
+bin/

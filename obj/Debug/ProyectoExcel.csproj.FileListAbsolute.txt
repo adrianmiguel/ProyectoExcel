@@ -5,3 +5,5 @@ C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel
 C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\obj\Debug\ProyectoExcel.csproj.CoreCompileInputs.cache
 C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\obj\Debug\ProyectoExcel.exe
 C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\obj\Debug\ProyectoExcel.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\bin\Debug\EPPlus.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ProyectoExcel\ProyectoExcel\bin\Debug\EPPlus.xml

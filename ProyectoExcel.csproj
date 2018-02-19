@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="Borrado.cs" />
     <Compile Include="CargarExcel.cs" />
+    <Compile Include="CrearExcel.cs" />
+    <Compile Include="LeerExcel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

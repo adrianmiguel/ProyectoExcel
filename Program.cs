@@ -12,6 +12,15 @@ namespace ProyectoExcel
         {
             //Borrado borrado = new Borrado();
             //borrado.IniciarBorrado();
+
+            //CargarExcel excel = new CargarExcel();
+            //excel.CrearExcel();
+
+            //CrearExcel crearExcel = new CrearExcel();
+            //crearExcel.CrearExcelXLS();
+
+            LeerExcel LeerExcel = new LeerExcel();
+            LeerExcel.LeerExcelXLSX();
         }
     }
 }
