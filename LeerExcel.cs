@@ -61,7 +61,7 @@ namespace ProyectoExcel
             if (ExtensionArchivoEntrada == ".xls")
             {
                 Ruta_Archivo = Path.Combine(RutaEntradas_BB, Dia + Mes + Anio, Dia + Mes + Anio + ".xls");
-                CadenaConexionArchivoExcel = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + Ruta_Archivo + ";Extended Properties='Excel 8.0;HDR=NO;IMEX=1'";
+                CadenaConexionArchivoExcel = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + Ruta_Archivo + ";Extended Properties='Excel 8.0;HDR=Yes;IMEX=1'";
             }
             else if (ExtensionArchivoEntrada == ".xlsx")
             {
@@ -69,8 +69,8 @@ namespace ProyectoExcel
                 CadenaConexionArchivoExcel = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + Ruta_Archivo + ";Extended Properties=\"Excel 12.0;HDR=Yes;IMEX=2\"";
             }
 
-            //string Query = "select [Empleado Id], [Nombre Compañia], [Contacto], [Telefono] from [Hoja1$]";
-            string Query = "SELECT * FROM [Hoja1$]";
+            string Query = "select [Empleado Id], [Nombre Compañia], [Contacto], [Telefono] from [Hoja1$]";
+            //string Query = "SELECT * FROM [Hoja1$]";
             OleDbConnection con = new OleDbConnection(CadenaConexionArchivoExcel);
             if (con.State == ConnectionState.Closed)
             {
