@@ -138,7 +138,7 @@ namespace ProyectoExcel
             //Set Defualt Page
             (excelWorkBook.Sheets[1] as OfficeExcel._Worksheet).Activate();
 
-            excelWorkBook.SaveAs(strPath, Default, Default, Default, false, Default, OfficeExcel.XlSaveAsAccessMode.xlNoChange, Default, Default, Default, Default, Default);
+            excelWorkBook.SaveAs(strPath, OfficeExcel.XlFileFormat.xlExcel8, Default, Default, false, Default, OfficeExcel.XlSaveAsAccessMode.xlNoChange, Default, Default, Default, Default, Default);
             excelWorkBook.Close();
             excelApp.Quit();
         }
