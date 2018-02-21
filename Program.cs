@@ -19,8 +19,8 @@ namespace ProyectoExcel
             //CrearExcel crearExcel = new CrearExcel();
             //crearExcel.CrearExcelXLS();
 
-            LeerExcel LeerExcel = new LeerExcel();
-            LeerExcel.LeerExcelXLSX();
+            CrearExcel crearExcel = new CrearExcel();
+            crearExcel.CrearExcel3();
         }
     }
 }
