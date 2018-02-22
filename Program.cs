@@ -20,7 +20,7 @@ namespace ProyectoExcel
             //crearExcel.CrearExcelXLS();
 
             CrearExcel crearExcel = new CrearExcel();
-            crearExcel.CrearExcel3();
+            crearExcel.CrearExcelXLSX();
         }
     }
 }
